@@ -1,0 +1,88 @@
+ h1{
+   
+    background-color: red;
+    text-align: center;
+    border-style: solid;
+    border-color : darkblue;
+    
+}
+
+ h3{
+    
+   
+    text-align: center;
+    
+}
+
+ .custom_border {
+   
+   border-width: 5px;
+   border-style: solid;
+   border-color : blue;
+}
+
+  img{
+    border-style: solid;
+    border-color: blue;
+    border-radius: 50px;
+ }
+
+.paragraph_background {
+  padding: 15px;
+  width: 1000px;
+  height: 150px;
+  background-color:lightgreen;
+  border-radius: 30px;
+}
+
+.small{
+  padding: 15px;
+  width: 1000px;
+  height: 60px;
+  background-color:lightgreen;
+  border-radius: 30px;
+}
+
+ p{
+  font-family: "Arial", sans-serif;
+  
+}
+  
+#font {
+  
+  font-weight: bold;
+  color:navy;
+}
+
+a{
+  color:red;
+}
+
+div {
+  margin: auto;
+  margin-left: 20px;
+}
+
+ul li {
+ margin: 20px;
+ color:darkgreen;
+}
+
+ul.a {
+  list-style-type: circle;
+}
+
+input {
+ background-color: lightblue;
+ color:blue;
+}
+
+ table, th, td {
+  border-style: solid;
+  border-color: navy;
+  
+}
+
+span {
+ font-family: "Helvetica", sans-serif;
+}
