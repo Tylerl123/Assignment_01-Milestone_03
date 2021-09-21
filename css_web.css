@@ -29,16 +29,16 @@
 
 .paragraph_background {
   padding: 15px;
-  width: 500px;
-  height: 400px;
+  width: 700px;
+  height: 380px;
   background-color:lightgreen;
   border-radius: 30px;
 }
 
 .small{
   padding: 15px;
-  width: 450px;
-  height: 200px;
+  width: 600px;
+  height: 160px;
   background-color:lightgreen;
   border-radius: 30px;
 }
